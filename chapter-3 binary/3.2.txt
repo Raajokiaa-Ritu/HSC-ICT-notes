@@ -1,0 +1,77 @@
+---------------:  Part-1:  --------------
+
+Boolean Algebra & Characteristics
+Boolean Variable and Constant
+Boolean Postulates- OR, AND
+Boolean Complements
+Boolean Duality Principle
+Fundamental Operations of Boolean Algebra
+Truth Table
+Boolean Theorem
+-------------------------------------
+De Morgan's Theorem
+-------------------------------------
+Basic Gate
+i. OR Gate 
+ii. AND Gate 
+iii. NOT Gate
+-------------------------------------
+
+Universal Gate- NAND, NOR
+Universality of NAND & NOR gate
+Special Gate-XOR, XNOR
+-------------------------------------
+Encoder and Decoder
+-------------------------------------
+Adder
+Binary adder
+-------------------------------------
+Flip-Flop
+Register
+Counter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
